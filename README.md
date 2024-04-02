@@ -480,7 +480,7 @@ A silent reinstall or upgrade does not require the `/allusers` parameter.
 To uninstall silently, specify `/silent` on the uninstaller's command line (the uninstaller executable is located in the `uninstall` directory inside the Syncthing installation folder).
 
 If you installed Syncthing for the current user, you must remove the Syncthing firewall rule manually (see [Removing the Firewall Rule Manually](#removing-the-firewall-rule-manually)) before uninstalling silently.
-
+a
 ## Reporting Problems
 
 If you encounter a problem with Setup or one of the helper tools, please inform the author by filing an issue on the Issues page:
